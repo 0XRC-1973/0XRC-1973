@@ -1,18 +1,81 @@
-# 💫 About Me:
-Hi there 👋, I'm Rimish Chandra Srivastava<br>🚀 AI | Full Stack Developer | Agentic AI Trainer | Cyber Security Enthusiast<br><br>I'm a passionate technology professional with expertise spanning software development, artificial intelligence, cloud computing, Cyber Security, and modern data systems. Over the past 2+ years, I have been training professionals and students in Agentic AI, helping them build intelligent, autonomous AI applications using the latest AI frameworks and technologies.<br><br>I enjoy solving complex engineering problems, building scalable applications, and continuously exploring emerging technologies. My focus is on creating practical, production-ready solutions that combine software engineering best practices with cutting-edge AI.<br><br>💻 Technical Expertise<br><br>🤖 Agentic AI & AI Application Development<br>🧠 Artificial Intelligence & Machine Learning<br>🐍 Python Development & Automation<br>🌐 Full Stack Web Development<br>☕ Java Application Development<br>🗄️ Database Design & Management (SQL & NoSQL)<br>☁️ Cloud Computing & Cloud-Native Technologies<br>🔐 Cybersecurity & Secure Software Development<br>⚡ REST APIs & Backend Architecture<br>📊 Data Engineering & Analytics<br><br>🌟 What I Do<br><br>🎓 Professional Agentic AI Trainer<br>🤖 Design and build intelligent AI agents<br>🌐 Develop scalable full-stack applications<br>☁️ Build cloud-based software solutions<br>🔒 Promote secure software engineering practices<br>📚 Mentor aspiring developers and AI professionals<br>🚀 Explore emerging technologies and innovative architectures
+# 💫 About Me
 
+Hi there! 👋 I'm **Rimish Chandra Srivastava**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=0XRC-1973&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=0XRC-1973&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0XRC-1973&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Full Stack Developer | AI Enthusiast | Python Developer | Java Developer | Cyber Security Enthusiast**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+I'm passionate about building modern software, exploring emerging technologies, and turning ideas into practical solutions. I enjoy developing intelligent applications, creating responsive web experiences, and continuously expanding my knowledge across software engineering and artificial intelligence.
+
+My interests span **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Cloud Computing**, **Cyber Security**, **Databases**, and **Backend Engineering**. I believe in learning through building, experimenting with new technologies, and contributing to projects that solve real-world problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=0XRC-1973&icon=5&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 What I Love Building
+
+- 🤖 Intelligent AI-powered applications
+- 🌐 Modern Full Stack Web Applications
+- 🐍 Python Automation & Backend Systems
+- ☕ Java Applications
+- 🗄️ Database-Driven Solutions
+- ☁️ Cloud-Native Applications
+- 🔐 Secure Software & Cyber Security Projects
+- 📊 Data-Driven Applications & Analytics
+- 🚀 Open Source Projects
+
+---
+
+## 💻 Core Skills
+
+- 🌐 HTML • CSS • JavaScript
+- ⚛️ React • Next.js • Node.js
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL • MySQL • Database Design
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Computing
+- 🔒 Cyber Security
+- ⚡ REST APIs
+- 🐳 Docker • Kubernetes
+- 📊 Power BI • Data Analytics
+- 🛠️ Git • GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+- Agentic AI
+- Large Language Models (LLMs)
+- Cloud Architecture
+- Backend System Design
+- DevOps & CI/CD
+- Open Source Development
+
+---
+
+## 🎯 Goals
+
+- Build impactful software products
+- Contribute to Open Source
+- Explore cutting-edge AI technologies
+- Develop scalable and secure applications
+- Continuously learn and share knowledge with the developer community
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, discussing technology, and connecting with fellow developers and tech enthusiasts.
+
+<p align="left">
+<a href="https://github.com/0XRC-1973">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
